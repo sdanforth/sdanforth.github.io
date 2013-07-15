@@ -7,16 +7,16 @@ disqus_shortname: sosimpletheme
 
 # Owner/author information
 owner:
-  name:           Michael Rose
-  avatar:         michael-rose-photo.jpg
-  email:          michael@mademistakes.com
+  name:           Steve Danforth
+  avatar:         profile-head.jpg
+  email:          sdanforth@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        "mmistakes"
-  facebook:       "michaelrose"
-  github:         "mmistakes"
-  linkedin:       "michaelrose"
-  instagram:      "mmistakes"
-  tumblr:         "mademistakes"
+  twitter:        "stevedanforth"
+  facebook:       "stevedanforth"
+  github:         "sdanforth"
+  linkedin:       "stevedanforth"
+  instagram:      "stevedanforth"
+  # tumblr:         "mademistakes"
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    "http://plus.google.com/118238196859537351707"
 
