@@ -8,7 +8,7 @@ tags:
   - sample post
   - world
   - test
-comments: true
+comments: false
 ---
 
 This is my world and this is my blog. 
